@@ -1,0 +1,7 @@
+19-01-2020
+
+1) Setup files:  a) Update the logo, b) Version to 1.1, c) Name: Abu Dhabi Digital Authority
+2) DataAnalyzer: a) not exiting after the run.
+
+3) Geo Data Sync: a)If there are no changes for replication, then put a row in the email, saying, Replica name etc and rest all as NA, reason as per log file. b) Log all exception where ever possible into html email.
+    
